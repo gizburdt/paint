@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/gizburdt/paint.svg?style=flat-square)](https://packagist.org/packages/gizburdt/paint)
 [![Total Downloads](https://img.shields.io/packagist/dt/gizburdt/paint.svg?style=flat-square)](https://packagist.org/packages/gizburdt/paint)
-[![Tests](https://img.shields.io/github/actions/workflow/status/gizburdt/paint/run-tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/gizburdt/paint/actions/workflows/run-tests.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/gizburdt/paint/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/gizburdt/paint/actions/workflows/tests.yml)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 Manipulate, transform and present data with ease.

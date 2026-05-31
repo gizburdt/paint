@@ -1,4 +1,4 @@
-name: fix-php-code-styling
+name: styling
 
 on:
   push:
