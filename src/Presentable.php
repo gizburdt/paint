@@ -4,7 +4,7 @@ namespace Gizburdt\Paint;
 
 trait Presentable
 {
-    protected mixed $instance;
+    protected mixed $instance = null;
 
     public function present(): mixed
     {

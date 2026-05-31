@@ -11,8 +11,6 @@ abstract class Presenter
         $this->entity = $entity;
     }
 
-    abstract public function present();
-
     public function __get(mixed $property): mixed
     {
         if (method_exists($this, $property)) {
