@@ -1,8 +1,8 @@
 {
-    "name": "gizburdt/curator",
+    "name": "gizburdt/paint",
     "description": "Manipulate, transform and present data with ease",
     "keywords": ["laravel"],
-    "homepage": "https://github.com/gizburdt/curator",
+    "homepage": "https://github.com/gizburdt/paint",
     "license": "MIT",
     "authors": [
         {
@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Gizburdt\\Curator\\": "src"
+            "Gizburdt\\Paint\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Gizburdt\\Curator\\Test\\": "tests"
+            "Gizburdt\\Paint\\Test\\": "tests"
         }
     },
     "scripts": {

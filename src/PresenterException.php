@@ -1,6 +1,6 @@
 <?php
 
-namespace Gizburdt\Curator;
+namespace Gizburdt\Paint;
 
 use Exception;
 

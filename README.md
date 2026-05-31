@@ -1,7 +1,7 @@
-# Curator
+# Paint
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/gizburdt/curator.svg?style=flat-square)](https://packagist.org/packages/gizburdt/curator)
-[![Total Downloads](https://img.shields.io/packagist/dt/gizburdt/curator.svg?style=flat-square)](https://packagist.org/packages/gizburdt/curator)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/gizburdt/paint.svg?style=flat-square)](https://packagist.org/packages/gizburdt/paint)
+[![Total Downloads](https://img.shields.io/packagist/dt/gizburdt/paint.svg?style=flat-square)](https://packagist.org/packages/gizburdt/paint)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 Manipulate, transform and present data with ease.
@@ -11,7 +11,7 @@ Manipulate, transform and present data with ease.
 You can install the package via composer:
 
 ``` bash
-composer require gizburdt/curator --dev
+composer require gizburdt/paint --dev
 ```
 
 ## Usage
