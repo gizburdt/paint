@@ -4,6 +4,11 @@ namespace Gizburdt\Paint\Test\Fixtures;
 
 use Gizburdt\Paint\Presenter;
 
+/**
+ * @extends Presenter<User>
+ *
+ * @property-read string $name
+ */
 class UserPresenter extends Presenter
 {
     public function fullName(): string

@@ -6,8 +6,10 @@ use Gizburdt\Paint\Presentable;
 
 class User
 {
+    /** @use Presentable<UserPresenter> */
     use Presentable;
 
+    /** @var class-string<UserPresenter> */
     protected string $presenter = UserPresenter::class;
 
     public function __construct(
